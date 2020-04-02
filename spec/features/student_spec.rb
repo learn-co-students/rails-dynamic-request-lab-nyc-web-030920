@@ -39,3 +39,4 @@ describe 'Show page' do
     expect(page).to have_css("h1", text: "Targaryen")
   end
 end
+# read 
